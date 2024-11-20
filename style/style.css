@@ -1,0 +1,30 @@
+h1{
+    
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 5rem;
+    letter-spacing:0.5rem
+      
+      
+}
+.button-text{
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+    letter-spacing:0.2rem
+}
+h2{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#quote{
+    display: none;
+}
